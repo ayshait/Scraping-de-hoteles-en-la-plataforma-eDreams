@@ -4,7 +4,6 @@ Este proyecto ha sido realizado en el contexto de la asignatura Tipologia y Cicl
 
 ## Miembros
 Aysha Ait Ouaddi
-
 Oriol González Dalmau
 
 ## Contenido

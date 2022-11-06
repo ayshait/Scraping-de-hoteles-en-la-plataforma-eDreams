@@ -10,7 +10,7 @@ Aysha Ait Ouaddi/Oriol González Dalmau
 
 * ```source```: Carpeta que contiene el codigo Python ```Código scraping hoteles eDreams .py``` que realiza la tarea de scraping y genera el dataset ```Hotels_dataset.csv```
 
-* ````memoria```: Archivo pdf que contiene la documentación escrita del proyecto
+* ```memoria```: Archivo pdf que contiene la documentación escrita del proyecto
 
 ## Enlace DOI del dataset
 Puede consultarse el dataset generado mediante el siguiente enlace DOI: https://doi.org/10.5281/zenodo.7295560

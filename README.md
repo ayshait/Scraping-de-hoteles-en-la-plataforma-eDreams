@@ -12,7 +12,10 @@ Aysha Ait Ouaddi/Oriol González Dalmau
 
 * ```memoria```: Archivo pdf que contiene la documentación escrita del proyecto
 
+*```Video ejecución del código.mp4```: Video en que se muestra la ejecución del código y la búsqueda realizada por el Driver de Chrome.
+
 ## Enlace DOI del dataset
 Puede consultarse el dataset generado mediante el siguiente enlace DOI: https://doi.org/10.5281/zenodo.7295560
+
 
 

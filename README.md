@@ -14,7 +14,7 @@ Aysha Ait Ouaddi/Oriol González Dalmau
 
 * ```Video ejecución del código.mp4```: Video en que se muestra la ejecución del código y la búsqueda realizada por el Driver de Chrome.
 
-* ```requirements.txt```: Documento que contiene las librerias utilizadas por el código *Código scraping hoteles eDreams .py*. El archivo es obtenido accediendo a la carpeta que contiene el código y mediante la ejecución en la terminal del comando ```D:\43591894v\Documents\Tipologia> pipreqs```. En caso de que la ejecución sea correcta se obtiene el siguiente mensaje: ```INFO: Successfully saved requirements file in `D:\43591894v\Documents\Tipologia\requirements.txt```.
+* ```requirements.txt```: Documento que contiene las librerias utilizadas por el código *Código scraping hoteles eDreams .py*. El archivo se obtiene accediendo a la carpeta que contiene el código y ejecutando en la terminal del comando ```D:\43591894v\Documents\Tipologia> pipreqs```. En caso de que la ejecución sea correcta se obtiene el siguiente mensaje: ```INFO: Successfully saved requirements file in `D:\43591894v\Documents\Tipologia\requirements.txt```.
 
 
 ## Enlace DOI del dataset
